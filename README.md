@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, It's Milann</h1>
 <h3 align="center">A passionate python developer from Nepal.</h3>
 
-- I'm usually working with **Django!**
+- Hi, I'm a **Python!** enthusiast.
 
-- Along with **JavaScript and Frameworks.**
-
-- 💬 Ask me about **anything.**
+- But I'd also love to work with **JavaScript and Frameworks.**
 
 - 📫 Mail me: **itsmilannn@gmail.com**
 <hr>
